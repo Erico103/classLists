@@ -9,10 +9,7 @@ const italicButton = document.querySelector('.make-italic');
 function giveAlert(){
 alert('i been clicked');
 };
-myBtn.addEventListener('click', function() {
-   
-   alert('button clicked');
-})
+
 
 const colorChange =() =>{
    changeBackGround.classList.toggle('red-background') 
