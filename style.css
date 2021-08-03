@@ -1,0 +1,29 @@
+.blue-background {
+    background-color: blue;
+    }
+    .red-background {
+    background-color: red;
+    }
+
+.textbox{
+    border: 2px solid black;
+    width: 500px;
+    margin-top: 20px;
+    color: white;
+    padding: 10px;
+    
+}
+.bold{
+    font-weight: bold;
+}
+
+.big{
+    font-size: large;
+}
+
+.italic{
+    font-style: italic;
+}
+.container{
+    margin-top: 20px;
+}
